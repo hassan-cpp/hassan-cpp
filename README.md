@@ -32,10 +32,11 @@ I work mostly in Python. I reach for PyTorch and OpenCV when the problem involve
 
 | Project | What it does | Stack |
 |---|---|---|
-| [GitHub Repo Analyser](https://github.com/hassan-cpp/Github-Repo-Analyser) | FastAPI service that scans any public GitHub repo for security vulnerabilities using Gemini 2.5 Flash | Python · FastAPI · Gemini · Docker |
+| [GitHub Repo Analyser](https://github.com/hassan-cpp/Github-Repo-Analyser) | FastAPI service that scans any public GitHub repo for security vulnerabilities using Gemini 2.5 Flash. Live on Render. | Python · FastAPI · Gemini · Docker |
+| [Multi-Agent Researcher](https://github.com/hassan-cpp/Multi-Agent-Researcher) | Full-stack business research platform with 4 coordinated LLM agents, human-in-the-loop clarification, and confidence-scored validation | Python · LangGraph · FastAPI · React · Tavily |
 | [Automated Movie Trailer Pipeline](https://github.com/hassan-cpp/Automated-Movie-Trailer-Generation-Pipeline) | End-to-end pipeline that generates horror trailers from raw footage using object detection and vision-language models | Python · YOLOv8 · BLIP · FFmpeg |
 | [Real Estate Price Predictor](https://github.com/hassan-cpp/Price-Predicton-Model) | ML model trained on scraped Zameen.com data, gradient descent implemented from scratch | Python · scikit-learn · Selenium |
-| [Quadcopter Flight Controller](https://github.com/hassan-cpp/C-Flight-Control-Repo) | Arduino C++ flight control logic for a custom-built quadcopter | C++ · Arduino |
+| [Quadcopter Flight Controller](https://github.com/hassan-cpp/C-Flight-Control-Repo) | Arduino C++ PID flight controller for a custom-built quadcopter, showcased at FAST NUCES Robotics Exhibition 2025 | C++ · Arduino |
 | [Furniture Bazaar](https://github.com/hassan-cpp/Furniture-Bazaar) | Full-stack furniture marketplace with React frontend and ASP.NET Core backend | React · ASP.NET · SQLite |
 
 ---
